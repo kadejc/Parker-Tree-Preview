@@ -23,6 +23,15 @@
 - [Our story and reviews](https://parkertreeservicetx.com/about-us/): Founded by Brownie Parker in Bakersfield, California, in 1937; his son George brought the tradition to DFW; today Ryder and an experienced crew carry it forward
 - [All services](https://parkertreeservicetx.com/services/)
 
+## Service areas
+
+- [Tree service in Plano, TX](https://parkertreeservicetx.com/service-areas/plano/): local tree rules and services
+- [Tree service in Dallas, TX](https://parkertreeservicetx.com/service-areas/dallas/): local tree rules and services
+- [Tree service in Frisco, TX](https://parkertreeservicetx.com/service-areas/frisco/): local tree rules and services
+- [Tree service in McKinney, TX](https://parkertreeservicetx.com/service-areas/mckinney/): local tree rules and services
+- [Tree service in Allen, TX](https://parkertreeservicetx.com/service-areas/allen/): local tree rules and services
+- [Tree service in Richardson, TX](https://parkertreeservicetx.com/service-areas/richardson/): local tree rules and services
+
 
 ## Common questions answered on the site
 
@@ -30,6 +39,8 @@
 - [How often will my tree need trimming?](https://parkertreeservicetx.com/services/trimming/)
 - [When is the best time to trim trees in Texas?](https://parkertreeservicetx.com/services/trimming/)
 - [Should I trim trees near power lines myself?](https://parkertreeservicetx.com/services/trimming/)
+- [Do you top trees or lion-tail them?](https://parkertreeservicetx.com/services/trimming/)
+- [How should young trees be pruned?](https://parkertreeservicetx.com/services/trimming/)
 - [Can you trim branches over my house?](https://parkertreeservicetx.com/services/trimming/)
 - [Do you work with HOAs and commercial properties?](https://parkertreeservicetx.com/services/trimming/)
 - [Do you offer emergency tree removal after a storm?](https://parkertreeservicetx.com/services/storm-damage/)
@@ -41,9 +52,11 @@
 - [Why do Bradford pears split in storms?](https://parkertreeservicetx.com/services/storm-damage/)
 - [Should I trim or remove my tree?](https://parkertreeservicetx.com/services/removal/)
 - [Can you remove a large tree in a tight space?](https://parkertreeservicetx.com/services/removal/)
+- [How do you remove a tree when there is no room to drop it?](https://parkertreeservicetx.com/services/removal/)
 - [How much does tree removal cost?](https://parkertreeservicetx.com/services/removal/)
 - [Do I need a permit to remove a tree in Plano or Dallas?](https://parkertreeservicetx.com/services/removal/)
 - [Does every struggling tree need feeding?](https://parkertreeservicetx.com/services/feeding/)
+- [How do you know if a tree needs feeding?](https://parkertreeservicetx.com/services/feeding/)
 - [Why are my tree’s leaves yellow with green veins?](https://parkertreeservicetx.com/services/feeding/)
 - [How can I tell if my tree is dying?](https://parkertreeservicetx.com/services/diagnosis/)
 - [Is my tree dead or just dormant?](https://parkertreeservicetx.com/services/diagnosis/)
@@ -54,6 +67,7 @@
 - [What should I tell you about my tree?](https://parkertreeservicetx.com/services/diagnosis/)
 - [What is the difference between stump grinding and stump removal?](https://parkertreeservicetx.com/services/stump-grinding/)
 - [How do you get rid of a tree stump?](https://parkertreeservicetx.com/services/stump-grinding/)
+- [How deep do you grind a stump?](https://parkertreeservicetx.com/services/stump-grinding/)
 - [What affects the cost of stump grinding?](https://parkertreeservicetx.com/services/stump-grinding/)
 - [Can I plant where a stump was ground?](https://parkertreeservicetx.com/services/stump-grinding/)
 - [What should we discuss before grinding?](https://parkertreeservicetx.com/services/stump-grinding/)
